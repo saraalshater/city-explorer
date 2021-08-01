@@ -34,5 +34,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "**Author**: Sara alshater **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraalshater/city-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saraalshater/city-explorer/issues"
+  },
+  "homepage": "https://github.com/saraalshater/city-explorer#readme"
 }
